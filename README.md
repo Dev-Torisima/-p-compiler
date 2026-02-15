@@ -1,2 +1,2 @@
 # -p
--p (minus p) lang compiler
+-p言語（minus p）のコンパイラーです
